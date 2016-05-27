@@ -1,0 +1,47 @@
+/*body{*/
+/*    background-color:red*/
+/*}*/
+
+img{
+    width:100%
+}
+
+.img-logo{
+    margin: 10px 0;
+}
+
+.img-title{
+    color:gray;
+    margin:8px 0;
+    text-align:center;
+}
+
+
+#mainTitle{
+
+    margin-top:25px;
+    text-align:center;
+    font-weight:bolder;
+    font-size:18px;
+    color:red;
+}
+
+#logo img{
+    width :100px;
+
+}
+#subTitle{
+/*        float:left;*/
+    font-size:13px;
+    color:orange;
+    text-align:center;
+    padding-bottom:15px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.pTime{
+    margin-right:9px;
+
+}
+
+
